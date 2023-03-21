@@ -12,4 +12,5 @@ cout << "ingrese el tiempo en horas en el que el auto se mueve: " << endl;
 cin >> tiempo;
 distancia = (velocidad * tiempo) * 1000;
 cout << mensaje << distancia << " metros";
+
 }

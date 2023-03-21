@@ -19,4 +19,5 @@ cin >> edad_3;
 contador_edades = contador_edades + 1;
 promedio_edad = (edad_1 + edad_2 + edad_3) / contador_edades;
 cout << mensaje << promedio_edad;
+
 }

@@ -12,4 +12,5 @@ cout << "Ingrese la altura" << endl;
 cin >> h;
 a = (b * h) / 2;
 cout << mensaje << a;
+
 }

@@ -18,4 +18,5 @@ euros = pesos / 3000;
 cout << mensaje_1 << dolares << " dolares" << endl;
 cout << mensaje_2 << bolivares << " bolivares" << endl;
 cout << mensaje_3 << euros << " euros" << endl;
+
 }

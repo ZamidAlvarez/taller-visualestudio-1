@@ -12,4 +12,5 @@ cin >> año_nacimiento;
 cin >> año_actual;
 edad_actual = año_actual - año_nacimiento;
 cout << mensaje << edad_actual << " años de edad";
+
 }

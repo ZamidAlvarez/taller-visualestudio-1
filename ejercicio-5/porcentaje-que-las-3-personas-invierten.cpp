@@ -27,4 +27,5 @@ cout << mensaje_4 << inversion_total << endl;
 cout << mensaje_1 << porcentaje_1 << "%" << endl;
 cout << mensaje_2 << porcentaje_2 << "%" << endl;
 cout << mensaje_3 << porcentaje_3 << "%" << endl;
+
 }

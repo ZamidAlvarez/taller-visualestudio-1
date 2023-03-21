@@ -22,4 +22,5 @@ comision = (venta_1 + venta_2 + venta_3) *0.10;
 sueldo_total = sueldo_base + comision;
 cout << mensaje_1 << comision << endl;
 cout << mensaje_2 << sueldo_total << endl;
+
 }
